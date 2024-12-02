@@ -1,0 +1,38 @@
+* {
+    background-color: beige;
+}
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    background-color: coral;
+    color: beige;
+    padding: 5 px;
+    margin: 5 px;
+}
+
+h2.container {
+    background-color: coral;
+    color: beige;
+    display: block;
+    border: 2px;
+    padding: 1.5 rem;
+
+    margin: 1 em;
+}
+
+.paragraph {
+    color: coral
+}
+
+ol, li {
+    color: coral;
+}
+
+h3 {
+    display: inline-block;
+    background-color: coral;
+    color: beige;
+    margin-left: 10 px;
+}
